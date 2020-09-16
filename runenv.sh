@@ -1,0 +1,1 @@
+source /home/jaropis/Dropbox/Praca/publikacje/rezerwuar/sph/venv/bin/activate
